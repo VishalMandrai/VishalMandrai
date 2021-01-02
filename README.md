@@ -13,7 +13,7 @@
 </a>
 
 
-### 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vishal-mandrai999/) 
+### 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/vishal-mandrai999/) 
 
 
 <!--
