@@ -1,10 +1,10 @@
 ## Hi! This is Vishal 👋
-- 🎓 I have completed my Bachelors in **Instrumentation and Control Engineering from NIT, Trichy**.
-- 🌱 I'm currently learning from **DataCamp and Kaggle**.
-- 💻 I'm looking for an internship in **Machine Learning and Data Science domain**.
+- 🚀 Actively seeking **Data Scientist** opportunities at growth-oriented organizations.
+- 🎓 I have completed my **B.Tech** in **Instrumentation and Control Engineering from NIT, Trichy** in 2022.
+- 🌱 **Startup-trained Data Science professional** experienced in building practical Data Science solutions.
 - 🤝🏻 Open for collaborations in **Data Science domains**.
+- ⚡ Fun Fact: **I’m actually a Statistician who codes well!**
 - 📌 **Scroll down to see my Pinned Repositories**.
-
 
 ### 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/vishal-mandrai999/) 
 
